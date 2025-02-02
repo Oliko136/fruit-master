@@ -1,4 +1,4 @@
-# Slot machine simulator
+# Fruit master game
 
 This is a simple game where a player wins if all there slots show the same fruit. The random selection of a fruit is handled by Javascript and triggered by pressing a "play" button.
 
@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Oliko136/slot-machine-simulator](https://github.com/Oliko136/slot-machine-simulator)
-- Live Site URL: [https://oliko136.github.io/slot-machine-simulator/](https://oliko136.github.io/slot-machine-simulator/)
+- Solution URL: [https://github.com/Oliko136/fruit-master](https://github.com/Oliko136/fruit-master)
+- Live Site URL: [https://oliko136.github.io/fruit-master/](https://oliko136.github.io/fruit-master/)
 
 ## My process
 
