@@ -19,7 +19,8 @@ This is a simple game where a player wins if all there slots show the same fruit
 Users should be able to:
 
 - See a random combination of fruits each time they hit the "play" button.
-- See a "You won!" message if all three slots show the same fruit.
+- See a "You won!!!" message if all three slots show the same fruit.
+- See a "You lost..." message if at least one fruit is different.
 
 ### Links
 
