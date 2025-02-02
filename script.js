@@ -1,12 +1,12 @@
 const playBtn = document.querySelector('.btn');
-const slotsArr = document.querySelectorAll('.slots_item');
+const slotsArr = document.querySelectorAll('.slots_item .fruit');
 const messageEl = document.querySelector('.message');
 
 playBtn.addEventListener('click', play);
 
 const fruits = {
     firstArr: ['🍏', '🥥', '🍋', '🍇', '🍊', '🍒', '🫐', '🍑', '🍓', '🥝'],
-    secondArr: ['🍋', '🍑', '🍓', '🥝', '🍒', '🍐', '🍊', '🥥', '🫐', '🍏'],
+    secondArr: ['🍋', '🍑', '🍓', '🥝', '🍒', '🍇', '🍊', '🥥', '🫐', '🍏'],
     thirdArr: ['🍇', '🍓', '🫐', '🍒', '🍊', '🍏', '🍑', '🥝', '🥥', '🍋']
 }
 
